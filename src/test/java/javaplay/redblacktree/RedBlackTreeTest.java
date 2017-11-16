@@ -1,7 +1,5 @@
 package javaplay.redblacktree;
 
-import java.util.Arrays;
-
 import javaplay.redblacktree.RedBlackTree;
 import javaplay.symboltable.SymbolTable;
 import junit.framework.TestCase;
